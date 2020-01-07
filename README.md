@@ -13,7 +13,7 @@ This is a Course Content Management App.
 ### Setup Guide
 
 Mysql database is used.
-The database has the three columns namely, DisplayName , TotalDownloads and location;
+The database has four tables namely course1 , course2 ,course3 and course4 each having the same table description , that three columns namely, DisplayName , TotalDownloads and location;
 
 <table>
 	<thead>
